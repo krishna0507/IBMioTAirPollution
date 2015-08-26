@@ -1,0 +1,3 @@
+[submodule "AndroHttpServer"]
+	path = AndroHttpServer
+	url = git@github.com:vik-y/AndroHttpServer.git
